@@ -6,7 +6,7 @@
 typedef struct {
   int procesos_terminados;
   int tiempo_respuesta_total;
-  int procesos_atendidos_primera_vez;
+  int procesos_atendidos;
 
   pthread_mutex_t metrics_mutex;
 } metrics_t;
