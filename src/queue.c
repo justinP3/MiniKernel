@@ -1,7 +1,7 @@
 #include "../include/queue.h"
 #include <stdlib.h>
 
-void crearCola(cola_t* cola) {
+void crear_cola(cola_t* cola) {
     cola->front = NULL;
     cola->rear = NULL;
     pthread_mutex_init(&cola->mutex, NULL);

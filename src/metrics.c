@@ -42,9 +42,9 @@ void* hilo_metricas(void* arg) {
         double throughput = (double)m->procesos_terminados / intervalo;
 
         printf("\n----------------------------------------------------------------\n");
-        printf("Reporte metricas (Últimos %d segundos)\n", intervalo);
+        printf("Reporte metricas, ultimos %d segundos\n", intervalo);
         printf("Procesos completados: %d\n", m->procesos_terminados);
-        printf("Throughput: %.2f procesos/segundo\n", throughput);
+        printf("Throughput: %.2f\n", throughput);
         printf("Tiempo de respuesta promedio: %.2f segundos\n", promedio_respuesta);
 
         m->procesos_terminados = 0;
