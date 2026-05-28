@@ -1,138 +1,138 @@
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
-Procesos completados: 1
-Throughput: 0.20
+Procesos completados: 0
+Throughput: 0.00
 Tiempo de respuesta promedio: 0.00 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
 Procesos completados: 4
 Throughput: 0.80
-Tiempo de respuesta promedio: 2.00 segundos
+Tiempo de respuesta promedio: 0.00 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
 Procesos completados: 4
 Throughput: 0.80
-Tiempo de respuesta promedio: 3.17 segundos
+Tiempo de respuesta promedio: 0.00 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
-Procesos completados: 4
-Throughput: 0.80
-Tiempo de respuesta promedio: 5.62 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 4
-Throughput: 0.80
-Tiempo de respuesta promedio: 8.57 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 4
-Throughput: 0.80
-Tiempo de respuesta promedio: 11.00 segundos
+Procesos completados: 3
+Throughput: 0.60
+Tiempo de respuesta promedio: 0.80 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
 Procesos completados: 6
 Throughput: 1.20
-Tiempo de respuesta promedio: 13.57 segundos
+Tiempo de respuesta promedio: 2.17 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 2
+Throughput: 0.40
+Tiempo de respuesta promedio: 3.75 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 3
+Throughput: 0.60
+Tiempo de respuesta promedio: 5.50 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 6
+Throughput: 1.20
+Tiempo de respuesta promedio: 7.40 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
 Procesos completados: 5
 Throughput: 1.00
-Tiempo de respuesta promedio: 15.86 segundos
+Tiempo de respuesta promedio: 8.25 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 4
+Throughput: 0.80
+Tiempo de respuesta promedio: 7.17 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 3
+Throughput: 0.60
+Tiempo de respuesta promedio: 7.40 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
 Procesos completados: 6
 Throughput: 1.20
-Tiempo de respuesta promedio: 18.00 segundos
+Tiempo de respuesta promedio: 6.33 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
 Procesos completados: 4
 Throughput: 0.80
-Tiempo de respuesta promedio: 19.88 segundos
+Tiempo de respuesta promedio: 7.00 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
-Procesos completados: 4
-Throughput: 0.80
-Tiempo de respuesta promedio: 22.71 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 3
-Throughput: 0.60
-Tiempo de respuesta promedio: 24.14 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 4
-Throughput: 0.80
-Tiempo de respuesta promedio: 26.10 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 2
-Throughput: 0.40
-Tiempo de respuesta promedio: 29.86 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 1
-Throughput: 0.20
-Tiempo de respuesta promedio: 32.71 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 1
-Throughput: 0.20
-Tiempo de respuesta promedio: 34.00 segundos
+Procesos completados: 5
+Throughput: 1.00
+Tiempo de respuesta promedio: 8.20 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
 Procesos completados: 6
 Throughput: 1.20
-Tiempo de respuesta promedio: 36.20 segundos
+Tiempo de respuesta promedio: 7.20 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
 Procesos completados: 3
 Throughput: 0.60
-Tiempo de respuesta promedio: 37.00 segundos
+Tiempo de respuesta promedio: 7.75 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
-Procesos completados: 1
-Throughput: 0.20
-Tiempo de respuesta promedio: 38.00 segundos
+Procesos completados: 4
+Throughput: 0.80
+Tiempo de respuesta promedio: 7.00 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 5
+Throughput: 1.00
+Tiempo de respuesta promedio: 7.33 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 4
+Throughput: 0.80
+Tiempo de respuesta promedio: 7.33 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 4
+Throughput: 0.80
+Tiempo de respuesta promedio: 7.25 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 4
+Throughput: 0.80
+Tiempo de respuesta promedio: 7.80 segundos
+
+----------------------------------------------------------------
+Reporte metricas, ultimos 5 segundos
+Procesos completados: 7
+Throughput: 1.40
+Tiempo de respuesta promedio: 9.50 segundos
 
 ----------------------------------------------------------------
 Reporte metricas, ultimos 5 segundos
 Procesos completados: 3
 Throughput: 0.60
-Tiempo de respuesta promedio: 40.00 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 3
-Throughput: 0.60
-Tiempo de respuesta promedio: 42.00 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 2
-Throughput: 0.40
-Tiempo de respuesta promedio: 42.25 segundos
-
-----------------------------------------------------------------
-Reporte metricas, ultimos 5 segundos
-Procesos completados: 3
-Throughput: 0.60
-Tiempo de respuesta promedio: 44.50 segundos
+Tiempo de respuesta promedio: 10.67 segundos
