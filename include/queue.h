@@ -18,3 +18,4 @@ void crear_cola(cola_t *cola);
 int vacio(cola_t *cola);
 void enqueue(cola_t *cola, pcb_t proceso);
 pcb_t dequeue(cola_t *cola);
+void cerrar(cola_t *cola);

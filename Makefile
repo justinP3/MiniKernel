@@ -17,3 +17,7 @@ $(TARGET): $(OBJS)
 
 clean:
 	rm -f src/*.o $(TARGET)
+
+test:
+	gcc -Wall -Wextra -pthread -Iinclude src/queue.c tests/pruebas_unitarias.c -o tests/ejec_test
+	./tests/ejec_test
