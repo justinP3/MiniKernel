@@ -13,8 +13,8 @@ void* generador_procesos(void* arg) {
     (void) arg;
     int pidCounter = 1;
     while(1) {
-        // duerme entre 0 y 1 segundo aleatoriamente para crear los procesos
-        sleep(rand() % 2);
+        // duerme entre 0 y 3 segundo aleatoriamente para crear los procesos
+        sleep(rand() % 3);
         // se crear y rellenan los datos el pcb del proceso
         pcb_t newProcess;
         newProcess.pid = pidCounter++;
